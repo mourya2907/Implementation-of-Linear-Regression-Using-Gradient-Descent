@@ -68,15 +68,25 @@ print(f"Predicted value:{pre}")
 
 ## Output:
 DATA.HEAD()
+
 ![364217302-e156cbdc-9313-4bda-af2b-0146f86c36ef](https://github.com/user-attachments/assets/7f66e59b-133a-4a90-9ea2-fbe7d035c008)
 
+
 X VALUE
+
+
 ![364217413-2722cf57-3445-4927-9dbb-91fb29afa605](https://github.com/user-attachments/assets/1bcd5c83-f6f3-4324-adaf-48b47a6e6c14)
 
+
 X1_VALUE
+
+
 ![364217645-4a1661da-780c-4e4e-8dd5-e33ca78726a1](https://github.com/user-attachments/assets/1f71017f-a18b-490d-9b85-90ec02fc72ed)
 
+
 PREDICTED VALUE
+
+
 ![364217878-2d549d59-bb8a-46fe-8598-34acbc3c0e6e](https://github.com/user-attachments/assets/d242835a-26fa-4d37-a3b7-ceb60482021d)
 
 
